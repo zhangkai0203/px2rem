@@ -1,4 +1,4 @@
-# wap app 适配方式
+# wap app 适配方式 第一种（推荐）
 
 #### amfe-flexible 控制html中font-sieze大小
 ```
@@ -33,6 +33,7 @@ module.exports = {
 ```
 提示：如果不想装换 可以使用大写的PX或Px
 ```
+# wap app 适配方式 第二种
 
 #### postcss-pxtorem移动端适配
 ```
